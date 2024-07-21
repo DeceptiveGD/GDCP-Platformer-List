@@ -10,11 +10,11 @@
     "records": [
         {
             "user": "testest",
-            "hz": 10:45.444,
+            "hz": 00:10:45.444,
             "percent": 100
         }, {
             "user": "testest",
-            "hz": 2:45.444,
+            "hz": 00.02:45.444,
             "percent": 100
         }
     ]
