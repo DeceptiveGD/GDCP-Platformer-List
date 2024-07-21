@@ -9,14 +9,16 @@
     "password": "free",
     "records": [
         {
-            "user": "testest",
-            "hz": "00:10:45.444",
-            "percent": 100
+            "user": "test",
+            "link": "https://www.youtube.com/watch?v=sN6X8v2AkdU",
+            "percent": 100,
+            "hz": "00:43:00.283"
         },
         {
-            "user": "testest1111111",
-            "hz": "00:02:45.444",
-            "percent": 100
+            "user": "testtest",
+            "link": "https://www.youtube.com/watch?v=vtgdBWOM1Rc",
+            "percent": 100,
+            "hz": "00:14:21.691"
         }
     ]
 }
