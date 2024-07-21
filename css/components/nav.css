@@ -1,6 +1,6 @@
 :root {
     --color-background: rgb(34, 31, 31);
-    --color-on-background: black;
+    --color-on-background: rgb(255, 255, 255);
     --color-primary: #a3024d;
     --color-on-primary: white;
 }
