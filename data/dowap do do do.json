@@ -14,15 +14,15 @@
             "hz": "15.204"
         },
         {
+            "user": "naqte",
+            "percent": 100,
+            "hz": "17.287"
+        },
+        {
             "user": "Gp0",
             "link": "https://www.youtube.com/watch?v=NAyVlx5uUs4",
             "percent": 100,
             "hz": "17.708"
-        },
-        {
-            "user": "naqte",
-            "percent": 100,
-            "hz": "17.287"
         }
     ]
 }
