@@ -10,7 +10,8 @@
     "records": [
         {
             "user": "test",
-            "percent": 100.1034
+            "hz": 144,
+            "percent": 10.34
         }
     ]
 }
