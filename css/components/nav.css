@@ -1,7 +1,7 @@
 :root {
-    --color-background: white;
+    --color-background: rgb(34, 31, 31);
     --color-on-background: black;
-    --color-primary: #0066ff;
+    --color-primary: #a3024d;
     --color-on-primary: white;
 }
 
