@@ -2,12 +2,15 @@
     "id": 108075700,
     "name": "dowap do do do",
     "author": "runaia",
-    "creators": ["runaia"],
+    "creators": [],
     "verifier": "runaia",
     "verification": "https://www.youtube.com/watch?v=e5N-sm6im1U",
     "percentToQualify": "0",
     "password": "free",
     "records": [
-
+        {
+            "user": "test",
+            "percent": 100.1034
+        }
     ]
 }
