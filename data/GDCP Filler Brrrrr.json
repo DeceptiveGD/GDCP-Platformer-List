@@ -22,6 +22,12 @@
             "user": "SH4IN3",
             "percent": 100,
             "hz": "24.687"
+        },
+        {
+            "user": "SoulsShards",
+            "percent": 100,
+            "hz": "28.020"
+            "mobile": True
         }
     ]
 }
