@@ -27,7 +27,7 @@
             "user": "SoulsShards",
             "percent": 100,
             "hz": "28.020"
-            "mobile": True
+            "mobile": "True"
         }
     ]
 }
