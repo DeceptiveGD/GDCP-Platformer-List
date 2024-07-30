@@ -9,15 +9,20 @@
     "password": "free",
     "records": [
         {
+            "user": "Gp0",
+            "percent": 100,
+            "hz": "4.425"
+        },
+        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "6.466"
-        },
+        },  
         {
-            "user": "Gp0",
+            "user": "SH4IN3",
             "percent": 100,
-            "hz": "11.504"
-        },
+            "hz": "11.016"
+        },  
         {
             "user": "Allu",
             "percent": 100,
