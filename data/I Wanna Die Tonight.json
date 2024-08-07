@@ -2,7 +2,7 @@
     "id": "108203913",
     "name": "I Wanna Die Tonight",
     "author": "Eziko",
-    "creators": [],
+    "creators": "[Eziko]",
     "verifier": "Eziko",
     "verification": "https://www.youtube.com/watch?v=kDSVIMCJDzA",
     "percentToQualify": "100",
@@ -13,13 +13,12 @@
             "percent": 100,
             "hz": "11.145"
         },
-        ,
         {
             "user": "Mylam999",
             "percent": 100,
             "hz": "15.687",
             "mobile": true
-        }
+        },
         {
             "user": "Gp0",
             "percent": 100,
