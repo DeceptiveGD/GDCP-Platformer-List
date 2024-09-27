@@ -12,6 +12,12 @@
             "user": "Voiddle",
             "percent": 100,
             "hz": "10:40.812"
+        },
+        {
+            "user": "ennea",
+            "hz": 120,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=uE8FI0LVTJs"
         }
     ]
 }

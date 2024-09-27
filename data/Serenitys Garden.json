@@ -17,6 +17,12 @@
             "user": "Gp0",
             "percent": 100,
             "hz": "47.016"
+        },
+        {
+            "user": "ennea",
+            "hz": 120,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=AgNJJPOXIW4"
         }
     ]
 }

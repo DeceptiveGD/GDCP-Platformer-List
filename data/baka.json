@@ -12,6 +12,12 @@
             "user": "NatNat",
             "percent": 100,
             "hz": "18.470"
+        },
+        {
+            "user": "ennea",
+            "hz": 120,
+            "percent": 100,
+            "video": "https://www.youtube.com/watch?v=XRCa9wjULkM"
         }
     ]
 }
