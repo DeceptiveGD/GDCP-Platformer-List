@@ -15,9 +15,9 @@
         },
         {
             "user": "ennea",
-            "hz": 120,
+            "hz": "6.695",
             "percent": 100,
-            "video": "https://www.youtube.com/watch?v=MskBvxjVoVw"
+            "link": "https://www.youtube.com/watch?v=MskBvxjVoVw"
         }
     ]
 }
