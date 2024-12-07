@@ -12,7 +12,11 @@
         "user": "Miksutic",
         "hz": "23.250",
         "percent": 100
-        
+    },
+    {
+        "user": "Voiddle",
+        "hz": "20.337",
+        "percent": 100
     }
     ]
 }

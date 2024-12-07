@@ -8,5 +8,10 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
+        {
+            "user": "Miksutic",
+            "hz": "27.020",
+            "percent": 100
+        }
     ]
 }
