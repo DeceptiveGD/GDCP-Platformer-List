@@ -54,6 +54,11 @@
             "user": "EABH",
             "hz": "32.450",
             "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "18.425"
         }
     ]
 }
