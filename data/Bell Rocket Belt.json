@@ -9,14 +9,14 @@
     "password": "free",
     "records": [
         {
-            "user": "Miksutic",
-            "hz": "27.020",
+            "user": "ImFeelingGreen",
+            "hz": "25.800",
             "percent": 100
         },
         {
-            "user": "ImFeelingGreen",
+            "user": "Miksutic",
             "percent": 100,
-            "hz": "25.800"
+            "hz": "27.020"
         }
     ]
 }
