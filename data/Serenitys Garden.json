@@ -19,11 +19,6 @@
             "hz": "37.22"
         },
         {
-            "user": "Gp0",
-            "percent": 100,
-            "hz": "47.016"
-        },
-        {
             "user": "ennea",
             "hz": "41.162",
             "percent": 100,
@@ -33,6 +28,11 @@
             "user": "Leoalas",
             "hz": "45.758",
             "percent": 100
+        },
+          {
+            "user": "Gp0",
+            "percent": 100,
+            "hz": "47.016"
         }
     ]
 }
