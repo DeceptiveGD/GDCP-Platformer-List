@@ -9,9 +9,9 @@
     "password": "free",
     "records": [
         {
-            "user": "Voiddle",
+            "user": "Mylam999",
             "percent": 100,
-            "hz": "10:40.812"
+            "hz": "1:45.012"
         },
         {
             "user": "ennea",
@@ -20,9 +20,9 @@
             "link": "https://www.youtube.com/watch?v=uE8FI0LVTJs"
         },
         {
-            "user": "Mylam999",
+            "user": "Voiddle",
             "percent": 100,
-            "hz": "1:45.012"
+            "hz": "10:40.812"
         }
     ]
 }
