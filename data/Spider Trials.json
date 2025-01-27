@@ -24,14 +24,14 @@
             "hz": "11.016"
         },
         {
+            "user": "Leoalas",
+            "hz": "25.404",
+            "percent": 100
+        },
+        {
             "user": "mylam999",
             "percent": 100,
             "hz": "26.17"
-        },
-        {
-            "user": "Allu",
-            "percent": 100,
-            "hz": "31.391"
         },
         {
             "user": "Turbometric",
@@ -44,14 +44,19 @@
             "percent": 100
         },
         {
-            "user": "Leoalas",
-            "hz": "25.404",
-            "percent": 100
-        },
-        {
             "user": "EABH",
             "hz": "28.966",
             "percent": 100
+        }, 
+        {
+            "user": "Tsa",
+            "hz": "29.637",
+            "percent": 100
+        },
+        {
+            "user": "Allu",
+            "percent": 100,
+            "hz": "31.391"
         }
     ]
 }
