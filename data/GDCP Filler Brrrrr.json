@@ -17,6 +17,21 @@
             "user": "Gp0",
             "percent": 100,
             "hz": "8.941"
+        }, 
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "18.425"
+        },  
+        {
+            "user": "EndGrain",
+            "percent": 100,
+            "hz": "18.620"
+        },  
+        {
+            "user": "Miksutic",
+            "hz": "19.854",
+            "percent": 100
         },
         {
             "user": "Mylam999",
@@ -35,30 +50,20 @@
             "hz": "25.295"
         },
         {
+            "user": "Leoalas",
+            "hz": "27.883",
+            "percent": 100
+        },
+        {
             "user": "SoulsShards",
             "percent": 100,
             "hz": "28.020",
             "mobile": true
         },
         {
-            "user": "Miksutic",
-            "hz": "19.854",
-            "percent": 100
-        },
-        {
-            "user": "Leoalas",
-            "hz": "27.883",
-            "percent": 100
-        },
-        {
             "user": "EABH",
             "hz": "32.450",
             "percent": 100
-        },
-        {
-            "user": "Turbometric",
-            "percent": 100,
-            "hz": "18.425"
         }
     ]
 }
