@@ -7,6 +7,16 @@
     "verification": "https://youtu.be/cFmfUWPuS8c?si=6zdlIMEX96RKTDsb",
     "percentToQualify": "100",
     "password": "free",
-    "records": [
+    "records": [ 
+        {
+            "user": "Leoalas",
+            "hz": "44.000",
+            "percent": 100
+        }, 
+        {
+            "user": "Mewo",
+            "hz": "58.291",
+            "percent": 100
+        }
     ]
 }
