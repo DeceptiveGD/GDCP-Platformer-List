@@ -17,6 +17,11 @@
             "user": "naqte",
             "percent": 100,
             "hz": "17.287"
+        }, 
+        {
+            "user": "Frostytoes",
+            "hz": "17.629",
+            "percent": 100
         },
         {
             "user": "Gp0",
@@ -41,8 +46,8 @@
             "percent": 100
         },
         {
-            "user": "Frostytoes",
-            "hz": "17.629",
+            "user": "Turbometric",
+            "hz": "23.400",
             "percent": 100
         }
     ]
