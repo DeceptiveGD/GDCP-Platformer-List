@@ -20,6 +20,11 @@
             "mobile": true
         },
         {
+            "user": "Leoalas",
+            "hz": "16.066",
+            "percent": 100
+        },
+        {
             "user": "Gp0",
             "percent": 100,
             "hz": "16.250"
@@ -31,9 +36,10 @@
             "link": "https://www.youtube.com/watch?v=2isW8-WX8zA"
         },
         {
-            "user": "Leoalas",
-            "hz": "16.066",
+            "user": "Turbometric",
+            "hz": "32.695",
             "percent": 100
         }
+        
     ]
 }
