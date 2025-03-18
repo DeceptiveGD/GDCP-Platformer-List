@@ -9,6 +9,11 @@
     "password": "free",
     "records": [ 
         {
+            "user": "Miksutic",
+            "hz": "28.675",
+            "percent": 100
+        },
+        {
             "user": "Turbometric",
             "hz": "35.945",
             "percent": 100
