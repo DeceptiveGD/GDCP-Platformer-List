@@ -9,6 +9,11 @@
     "password": "free",
     "records": [ 
         {
+            "user": "Turbometric",
+            "hz": "35.945",
+            "percent": 100
+        },
+        {
             "user": "Leoalas",
             "hz": "44.000",
             "percent": 100
@@ -16,11 +21,6 @@
         {
             "user": "Mewo",
             "hz": "58.291",
-            "percent": 100
-        },
-        {
-            "user": "Turbometric",
-            "hz": "1:20.616",
             "percent": 100
         }
     ]
