@@ -9,9 +9,9 @@
     "password": "free",
     "records": [
         {
-            "user": "Mylam999",
+            "user": "Voiddle",
             "percent": 100,
-            "hz": 10.20
+            "hz": 6.895
         },
         {
             "user": "allu",
@@ -19,9 +19,9 @@
             "hz": 9.508
         },
         {
-            "user": "Voiddle",
+            "user": "Mylam999",
             "percent": 100,
-            "hz": 6.895
+            "hz": 10.20
         }
     ]
 }
