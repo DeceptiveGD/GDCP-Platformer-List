@@ -7,7 +7,12 @@
     "verification": "https://youtu.be/cFmfUWPuS8c?si=6zdlIMEX96RKTDsb",
     "percentToQualify": "100",
     "password": "free",
-    "records": [ 
+    "records": [
+        {
+            "user": "Voiddle",
+            "hz": "26.458",
+            "percent": 100
+        },
         {
             "user": "Miksutic",
             "hz": "28.675",
