@@ -1,0 +1,23 @@
+{
+    "id": 108110473,
+    "name": "baka",
+    "author": "rr3verb",
+    "creators": [],
+    "verifier": "Voiddle",
+    "verification": "https://youtu.be/sblYqg8jsI4",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "18.470"
+        },
+        {
+            "user": "ImFeelingGreen",
+            "hz": "21.045",
+            "percent": 100,
+            "link": "https://www.youtube.com/watch?v=XRCa9wjULkM"
+        }
+    ]
+}
