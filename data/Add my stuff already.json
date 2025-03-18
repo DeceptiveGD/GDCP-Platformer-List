@@ -9,18 +9,18 @@
     "password": "free",
     "records": [
     {
-        "user": "Miksutic",
-        "hz": "23.250",
+        "user": "Voiddle",
+        "hz": "20.337",
         "percent": 100
-    }, 
+    },
     {
         "user": "Turbometric",
         "hz": "22.958",
         "percent": 100
-    },
+    }
     {
-        "user": "Voiddle",
-        "hz": "20.337",
+        "user": "Miksutic",
+        "hz": "23.250",
         "percent": 100
     }
     ]
