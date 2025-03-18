@@ -17,6 +17,11 @@
             "user": "Miksutic",
             "percent": 100,
             "hz": "27.020"
+        },
+        {
+            "user": "Turbometric",
+            "hz": "29.537",
+            "percent": 100
         }
     ]
 }
