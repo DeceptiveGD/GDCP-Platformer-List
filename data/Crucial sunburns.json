@@ -9,14 +9,14 @@
     "password": "free",
     "records": [
         {
-            "name": "Voiddle",
+            "user": "Voiddle",
             "percent": 100,
-            "hz": 9.12
+            "hz": "9.12"
         },
         {
-            "name": "Mylam999",
+            "user": "Mylam999",
             "percent": 100,
-            "hz": 9.00
-        }
+            "hz": "9"
+        },
     ]
 }
