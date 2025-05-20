@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "NatNat",
+            "percent": 100,
+            "hz": "8.375"
+        },
+        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "9.120"
@@ -17,11 +22,6 @@
             "user": "Mylam999",
             "percent": 100,
             "hz": "9.000"
-        },
-        {
-            "user": "NatNat",
-            "percent": 100,
-            "hz": "8.375"
         }
     ]
 }
