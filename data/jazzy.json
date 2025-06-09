@@ -1,1 +1,23 @@
-
+{
+    "id": 115688915,
+    "name": "jazzy",
+    "author": "William",
+    "creators": [],
+    "verifier": "William",
+    "verification": "https://www.youtube.com/watch?v=zuDKiV0FmT8&ab_channel=GameFusion",
+    "percentToQualify": "100",
+    "password": "free",
+    "records": [
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "8.416"
+        },
+        {
+            "user": "Mylam999",
+            "percent": 100,
+            "hz": "15.250",
+            "mobile": true
+        }
+    ]
+}
