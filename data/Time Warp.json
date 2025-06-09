@@ -26,7 +26,8 @@
         {
             "user": "Mylam999",
             "percent": 100,
-            "hz": 10.20
+            "hz": 10.200,
+            "mobile": true
         }
     ]
 }
