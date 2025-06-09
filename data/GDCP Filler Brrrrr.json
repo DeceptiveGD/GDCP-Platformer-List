@@ -32,7 +32,12 @@
             "user": "EndGrain",
             "percent": 100,
             "hz": "18.620"
-        },  
+        },
+        {
+            "user": "cheems",
+            "percent": 100,
+            "hz": "19.395",
+        },
         {
             "user": "Miksutic",
             "hz": "19.854",
