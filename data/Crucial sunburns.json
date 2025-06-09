@@ -14,14 +14,34 @@
             "hz": "8.375"
         },
         {
-            "user": "Voiddle",
+            "user": "Maxa",
             "percent": 100,
-            "hz": "9.120"
+            "hz": "8.637"
+        },
+        {
+            "user": "Miksutic",
+            "percent": 100,
+            "hz": "8.925"
         },
         {
             "user": "Mylam999",
             "percent": 100,
             "hz": "9.000"
+        },
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "9.120"
+        },
+        {
+            "user": "Catzaru",
+            "percent": 100,
+            "hz": "9.441"
+        },
+        {
+            "user": "cheems",
+            "percent": 100,
+            "hz": "10.887"
         }
     ]
 }
