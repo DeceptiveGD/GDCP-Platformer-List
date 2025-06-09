@@ -40,6 +40,11 @@
             "mobile": true
         },
         {
+            "user": "tensixtyoclock",
+            "percent": 100,
+            "hz": "10.491"
+        },
+        {
             "user": "cheems",
             "percent": 100,
             "hz": "10.887"
