@@ -29,6 +29,12 @@
             "percent": 100
         },
         {
+            "user": "Catzaru",
+            "percent": 100,
+            "hz": "20.645",
+            "mobile": true
+        },
+        {
             "user": "Leoalas",
             "hz": "25.404",
             "percent": 100
