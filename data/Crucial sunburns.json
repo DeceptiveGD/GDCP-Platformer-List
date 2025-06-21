@@ -48,6 +48,11 @@
             "user": "cheems",
             "percent": 100,
             "hz": "10.887"
+        },
+        {
+            "user": "Potato",
+            "hz": "10.195",
+            "percent": 100
         }
     ]
 }
