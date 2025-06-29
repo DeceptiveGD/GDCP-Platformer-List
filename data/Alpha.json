@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "25.833"
+        },
+        {
             "user": "Ragequit",
             "percent": 100,
             "hz": "28.220"
