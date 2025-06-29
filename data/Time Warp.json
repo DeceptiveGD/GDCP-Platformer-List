@@ -28,6 +28,11 @@
             "percent": 100,
             "hz": 10.200,
             "mobile": true
+        },
+        {
+            "user": "Ragequit",
+            "percent": 100,
+            "hz": "10.204"
         }
     ]
 }
