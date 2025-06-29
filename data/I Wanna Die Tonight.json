@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "Ragequit",
+            "hz": 10.541,
+            "percent": 100
+        },
+        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "11.145"
@@ -40,11 +45,6 @@
             "hz": "25.937",
             "percent": 100,
             "link": "https://www.youtube.com/watch?v=kmCO83dIZAM&feature=youtu.be"
-        },
-        {
-            "user": "Ragequit",
-            "hz": 29.775,
-            "percent": 100
         },
         {
             "user": "Turbometric",
