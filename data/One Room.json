@@ -37,7 +37,12 @@
             "user": "Leoalas",
             "hz": "44.000",
             "percent": 100
-        }, 
+        },
+        {
+            "user": "Ragequit",
+            "percent": 100,
+            "hz": "46.404"
+        },
         {
             "user": "Mewo",
             "hz": "58.291",
