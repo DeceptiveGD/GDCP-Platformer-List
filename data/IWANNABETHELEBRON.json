@@ -22,7 +22,12 @@
             "user": "Turbometric",
             "percent": 100,
             "hz": 10.137
-        }, 
+        },
+        {
+            "user": "Catzaru",
+            "percent": 100,
+            "hz": 11.383
+        },
         {
             "user": "NatNat",
             "percent": 100,
