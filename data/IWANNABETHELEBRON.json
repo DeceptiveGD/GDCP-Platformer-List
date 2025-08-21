@@ -47,6 +47,11 @@
             "user": "Tsa",
             "hz": "19.666",
             "percent": 100
+        },
+        {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "10.833"
         }
     ]
 }

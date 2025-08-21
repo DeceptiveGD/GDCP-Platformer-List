@@ -17,6 +17,16 @@
             "user": "Ragequit",
             "hz": 22.366,
             "percent": 100
+        },
+        {
+            "user": "Dragondude",
+            "percent": 100,
+            "hz": "21.604"
+        },
+        {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "17.637"
         }
     ]
 }

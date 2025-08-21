@@ -52,6 +52,11 @@
             "user": "EABH",
             "hz": "1:27.850",
             "percent": 100
+        },
+        {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "36.112"
         }
     ]
 }
