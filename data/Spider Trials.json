@@ -103,6 +103,11 @@
             "user": "Coffee shlup",
             "percent": 100,
             "hz": "18.729"
+        },
+        {
+            "user": "Beat",
+            "hz": 26.862,
+            "percent": 100
         }
     ]
 }
