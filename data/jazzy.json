@@ -23,6 +23,16 @@
             "percent": 100,
             "hz": "15.250",
             "mobile": true
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "12.616"
+        },
+        {
+            "user": "Tsa",
+            "percent": 100,
+            "hz": "18.233"
         }
     ]
 }

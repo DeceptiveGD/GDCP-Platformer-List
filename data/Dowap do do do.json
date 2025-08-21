@@ -54,6 +54,11 @@
             "user": "Turbometric",
             "hz": "23.400",
             "percent": 100
+        },
+        {
+            "user": "Tsa",
+            "percent": 100,
+            "hz": "31.158"
         }
     ]
 }

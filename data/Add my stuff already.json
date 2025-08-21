@@ -37,6 +37,11 @@
             "user": "Miksutic",
             "hz": "23.250",
             "percent": 100
+        },
+        {
+            "user": "Tsa",
+            "percent": 100,
+            "hz": "22.967"
         }
     ]
 }

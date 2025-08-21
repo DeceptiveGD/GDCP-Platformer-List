@@ -89,6 +89,11 @@
             "user": "EABH",
             "hz": "32.450",
             "percent": 100
+        },
+        {
+            "user": "Tsa",
+            "percent": 100,
+            "hz": "19.795"
         }
     ]
 }
