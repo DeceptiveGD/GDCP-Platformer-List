@@ -17,6 +17,11 @@
             "user": "Ragequit",
             "hz": 18.441,
             "percent": 100
+        },
+        {
+            "user": "EthanDemon",
+            "percent": 100,
+            "hz": "18.441"
         }
     ]
 }
