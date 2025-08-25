@@ -108,6 +108,11 @@
             "user": "Beat",
             "hz": 26.862,
             "percent": 100
+        },
+        {
+            "user": "DeceptiveGD",
+            "percent": 100,
+            "hz": "37.170"
         }
     ]
 }
