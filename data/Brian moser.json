@@ -7,6 +7,16 @@
     "verification": "https://youtu.be/Flp4rwHNvk8?si=RGx2Iv4P3nRiHXJG",
     "percentToQualify": "100",
     "password": "free",
-    "records": [
+    "records": [ 
+        {
+            "user": "TheYapKing",
+            "percent": 100,
+            "hz": "21.004"
+        },
+        {
+            "user": "Mylam999",
+            "percent": 100,
+            "hz": "10.179"
+        }
     ]
 }
