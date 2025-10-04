@@ -22,7 +22,16 @@
             "user": "Blurmbog",
             "percent": 100,
             "hz": "5.870"
+        },
+        {
+            "user": "Icarocarli",
+            "hz": "6.541",
+            "percent": 100
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "5.175"
         }
-
     ]
 }

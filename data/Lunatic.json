@@ -12,6 +12,12 @@
             "user": "TheYapKing",
             "percent": 100,
             "hz": "28.270"
+        },
+        {
+            "user": "Mylam999",
+            "percent": 100,
+            "hz": "29.291",
+            "mobile": true
         }
     ]
 }
