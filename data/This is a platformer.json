@@ -53,6 +53,11 @@
             "user": "Turbometric",
             "percent": 100,
             "hz": "18.687"
+        },
+        {
+            "user": "Icarocarli",
+            "hz": "29.241",
+            "percent": 100
         }
     ]
 }

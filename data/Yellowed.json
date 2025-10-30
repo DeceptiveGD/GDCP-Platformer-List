@@ -37,6 +37,11 @@
             "user": "Turbometric",
             "percent": 100,
             "hz": "16.445"
+        },
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "12.450"
         }
     ]
 }

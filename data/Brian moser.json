@@ -17,6 +17,21 @@
             "user": "Mylam999",
             "percent": 100,
             "hz": "10.179"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "10.275",
+            "percent": 100
+        },
+        {
+            "user": "Icarocarli",
+            "hz": "14.887",
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "07.895"
         }
     ]
 }

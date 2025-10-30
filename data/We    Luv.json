@@ -32,6 +32,16 @@
             "user": "Turbometric",
             "percent": 100,
             "hz": "5.175"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "5.650",
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "3.562"
         }
     ]
 }

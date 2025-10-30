@@ -13,6 +13,16 @@
             "percent": 100,
             "hz": "20.600",
             "mobile": true
+        },
+        {
+            "user": "Ragequit",
+            "hz": "19.379",
+            "percent": 100
+        },
+        {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "14.383"
         }
     ]
 }
