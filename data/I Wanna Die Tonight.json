@@ -75,6 +75,11 @@
             "user": "Icarocarli",
             "hz": "01:05.545",
             "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "15.841"
         }
     ]
 }
