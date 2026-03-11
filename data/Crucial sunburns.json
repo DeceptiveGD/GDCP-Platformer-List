@@ -24,6 +24,11 @@
             "hz": "8.833"
         },
         {
+            "user": "Icarocarli",
+            "hz": "8.895",
+            "percent": 100
+        },
+        {
             "user": "Miksutic",
             "percent": 100,
             "hz": "8.925"
@@ -50,41 +55,6 @@
             "mobile": true
         },
         {
-            "user": "tensixtyoclock",
-            "percent": 100,
-            "hz": "10.491"
-        },
-        {
-            "user": "cheems",
-            "percent": 100,
-            "hz": "10.887"
-        },
-        {
-            "user": "Potato",
-            "hz": "10.195",
-            "percent": 100
-        },
-        {
-            "user": "wjay4",
-            "hz": "15.883",
-            "percent": 100
-        },
-        {
-            "user": "TheYapKing",
-            "percent": 100,
-            "hz": "10.862"
-        },
-        {
-            "user": "Coffee shlup",
-            "percent": 100,
-            "hz": "9.966"
-        },
-        {
-            "user": "DeceptiveGD",
-            "percent": 100,
-            "hz": "12.262"
-        },
-        {
             "user": "BLUJAYOO",
             "percent": 100,
             "hz": "9.512"
@@ -95,13 +65,48 @@
             "hz": "9.737"
         },
         {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "9.966"
+        },
+        {
+            "user": "Potato",
+            "hz": "10.195",
+            "percent": 100
+        },
+        {
+            "user": "tensixtyoclock",
+            "percent": 100,
+            "hz": "10.491"
+        },
+        {
+            "user": "TheYapKing",
+            "percent": 100,
+            "hz": "10.862"
+        },
+        {
+            "user": "cheems",    
+            "percent": 100,
+            "hz": "10.887"
+        },
+        {
+            "user": "DeceptiveGD",
+            "percent": 100,
+            "hz": "12.262"
+        },
+        {
+            "user": "dunno12",
+            "percent": 100,
+            "hz": "12.383"
+        },
+        {
             "user": "Leoalas",
             "hz": "14.879",
             "percent": 100
         },
         {
-            "user": "Icarocarli",
-            "hz": "8.895",
+            "user": "wjay4",
+            "hz": "15.883",
             "percent": 100
         }
     ]
