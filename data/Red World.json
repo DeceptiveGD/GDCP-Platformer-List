@@ -9,17 +9,6 @@
     "password": "free",
     "records": [
         {
-            "user": "Mylam999",
-            "percent": 100,
-            "hz": "24.933",
-            "mobile": true
-        },
-        {
-            "user": "Ragequit",
-            "hz": "21.470",
-            "percent": 100
-        },
-        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "14.041"
@@ -28,6 +17,22 @@
             "user": "Maxa",
             "percent": 100,
             "hz": "18.458"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "21.470",
+            "percent": 100
+        },
+        {
+            "user": "Leoalas",
+            "hz": "24.700",
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "percent": 100,
+            "hz": "24.933",
+            "mobile": true
         }
     ]
 }
