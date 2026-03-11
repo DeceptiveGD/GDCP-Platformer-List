@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "23.420"
+        },
+        {
             "user": "ImFeelingGreen",
             "hz": "25.800",
             "percent": 100
@@ -27,11 +32,6 @@
             "user": "Ragequit",
             "hz": "36.170",
             "percent": 100
-        },
-        {
-            "user": "Coffee shlup",
-            "percent": 100,
-            "hz": "23.420"
         }
     ]
 }
