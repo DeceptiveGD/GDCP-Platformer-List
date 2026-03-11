@@ -14,9 +14,44 @@
             "hz": "8.416"
         },
         {
+            "user": "Blurmbog",
+            "percent": 100,
+            "hz": "9.079"
+        },
+        {
             "user": "Ragequit",
             "percent": 100,
             "hz": "9.595"
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "10.741"
+        },
+        {
+            "user": "icarocarli",
+            "percent": 100,
+            "hz": "12.854"
+        },
+        {
+            "user": "Coffee shlup",
+            "percent": 100,
+            "hz": "13.062"
+        },
+        {
+            "user": "TheYapKing",
+            "percent": 100,
+            "hz": "13.266"
+        },
+        {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "13.412"
+        },
+        {
+            "user": "Leoalas",
+            "hz": "13.950",
+            "percent": 100
         },
         {
             "user": "Mylam999",
@@ -25,9 +60,9 @@
             "mobile": true
         },
         {
-            "user": "Turbometric",
+            "user": "BLUJAYOO",
             "percent": 100,
-            "hz": "12.616"
+            "hz": "15.287"
         },
         {
             "user": "Tsa",
@@ -35,45 +70,9 @@
             "hz": "18.233"
         },
         {
-            "user": "Coffee shlup",
-            "percent": 100,
-            "hz": "13.062"
-        },
-        {
             "user": "DeceptiveGD",
             "percent": 100,
             "hz": "21.666"
-        },
-        {
-            "user": "BLUJAYOO",
-            "percent": 100,
-            "hz": "15.287"
-        },
-        {
-            "user": "Blurmbog",
-            "percent": 100,
-            "hz": "9.079"
-        },
-        {
-            "user": "TheYapKing",
-            "percent": 100,
-            "hz": "13.266"
-        },
-        {
-            "user": "Leoalas",
-            "hz": "13.950",
-            "percent": 100
-        },
-        {
-            "user": "Turbometric",
-            "percent": 100,
-            "hz": "10.741"
-        },
-        {
-            "user": "Maxa",
-            "percent": 100,
-            "hz": "13.412"
         }
-
     ]
 }
