@@ -9,6 +9,21 @@
     "password": "free",
     "records": [
         {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "17.745"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "25.408",
+            "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "26.087"
+        },
+        {
             "user": "TheYapKing",
             "percent": 100,
             "hz": "28.270"
@@ -18,21 +33,6 @@
             "percent": 100,
             "hz": "29.291",
             "mobile": true
-        },
-        {
-            "user": "Ragequit",
-            "hz": "25.408",
-            "percent": 100
-        },
-        {
-            "user": "Voiddle",
-            "percent": 100,
-            "hz": "17.745"
-        },
-        {
-            "user": "Maxa",
-            "percent": 100,
-            "hz": "26.087"
         }
     ]
 }
