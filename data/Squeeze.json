@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "16.983"
+        },
+        {
             "user": "Mylam999",
             "percent": 100,
             "hz": "17.141"
@@ -22,12 +27,6 @@
             "user": "Voiddle",
             "percent": 100,
             "hz": "20.837"
-        },
-        {
-            "user": "Maxa",
-            "percent": 100,
-            "hz": "16.983"
         }
-
     ]
 }
