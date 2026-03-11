@@ -10,7 +10,12 @@
     "records": [
         {
             "user": "Icarocarli",
-            "hz": "04.269",
+            "hz": "4.269",
+            "percent": 100
+        },
+        {
+            "user": "Mylam999",
+            "hz": "4.862",
             "percent": 100
         },
         {
