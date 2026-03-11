@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "icarocarli",
+            "hz": "12.783",
+            "percent": 100
+        },
+        {
             "user": "Voiddle",
             "hz": "13.745",
             "percent": 100
@@ -17,6 +22,11 @@
             "user": "tensixtyoclock",
             "hz": "14.312",
             "percent": 100
+        },
+        {
+            "user": "EthanDemon",
+            "percent": 100,
+            "hz": "15.316"
         },
         {
             "user": "Leoalas",
@@ -29,24 +39,19 @@
             "percent": 100
         },
         {
-            "user": "Turbometric",
-            "percent": 100,
-            "hz": "33.645"
-        },
-        {
             "user": "Coffee shlup",
             "percent": 100,
             "hz": "19.995"
         },
         {
-            "user": "EthanDemon",
-            "percent": 100,
-            "hz": "15.316"
-        },
-        {
             "user": "Maxa",
             "percent": 100,
             "hz": "23.641"
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "33.645"
         }
     ]
 }
