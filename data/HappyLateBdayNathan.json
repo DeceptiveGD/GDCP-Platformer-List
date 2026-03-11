@@ -9,14 +9,14 @@
     "password": "free",
     "records": [
         {
-            "user": "Ragequit",
-            "hz": "07:28.654",
-            "percent": 100
-        },
-        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "23.066"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "7:28.654",
+            "percent": 100
         }
     ]
 }
