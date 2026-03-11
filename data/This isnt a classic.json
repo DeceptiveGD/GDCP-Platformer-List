@@ -9,19 +9,24 @@
     "password": "free",
     "records": [
         {
-            "user": "Ragequit",
-            "hz": "59.045",
-            "percent": 100
-        },
-        {
             "user": "Voiddle",
             "percent": 100,
             "hz": "58.141"
         },
         {
+            "user": "Ragequit",
+            "hz": "59.045",
+            "percent": 100
+        },
+        {
             "user": "Maxa",
             "percent": 100,
-            "hz": "01:40.554"
+            "hz": "1:40.554"
+        },
+        {
+            "user": "Mylam999",
+            "percent": 100,
+            "hz": "19:38.212"
         }
     ]
 }
