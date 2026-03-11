@@ -9,6 +9,11 @@
     "password": "free",
     "records": [
         {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "9.449"
+        },
+        {
             "user": "Mylam999",
             "percent": 100,
             "hz": "9.583"
