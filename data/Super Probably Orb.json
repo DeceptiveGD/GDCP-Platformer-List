@@ -8,16 +8,17 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
+            {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "2.316",
+            "link": "https://youtu.be/0zGTUoCLiiU"
+        },
         {
             "user": "GamingCon",
             "hz": "2.699",
             "percent": 100,
             "link": "https://medal.tv/games/geometry-dash/clips/nlsWKvcAUZnN8DLKy?invite=cr-MSw3OTIsNDIzOTY1MjY5"
-        },
-        {
-            "user": "Maxa",
-            "percent": 100,
-            "hz": "2.716"
         },
         {
             "user": "BLUJAYOO",
