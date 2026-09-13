@@ -9,19 +9,25 @@
     "password": "free",
     "records": [
         {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "22.454"
+        },
+        {
             "user": "Ragequit",
-            "hz": 27.250,
+            "hz": "27.250",
             "percent": 100
+        },
+        {
+            "user": "Maxa",
+            "hz": "32.670",
+            "percent": 100,
+            "link": "https://youtu.be/IWeVvA5Fc-g"
         },
         {
             "user": "EthanDemon",
             "percent": 100,
             "hz": "34.850"
-        },
-        {
-            "user": "Voiddle",
-            "percent": 100,
-            "hz": "22.454"
         }
     ]
 }
