@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
-        
+        {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "6.350",
+            "link": "https://youtu.be/6SJeSgW2Yt4"
+        }
     ]
 }
