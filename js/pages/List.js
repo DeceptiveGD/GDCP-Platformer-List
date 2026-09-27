@@ -100,11 +100,11 @@ export default {
                     </template>
                     <h3>Level Submit Rules</h3>
                     <p>
-                        Must be beatable and verified. Doesn't need deco but it needs structuring. Any secret ways found in levels will need to be fixed . Must be under 30 seconds. Needs to have visible effort put into it. Spamming low effort challenges will not be allowed. All levels must be made for the list by members of the GDCP community. if you disagree with mods feel free to state your opinion. Don't harass them.
+                        Must be beatable and verified. Doesn't need deco but it needs structuring. Any secret ways found in levels will need to be fixed. Must be under 30 seconds. Needs to have visible effort put into it. Spamming low effort challenges will not be allowed. All levels must be made for the list by members of the GDCP community. if you disagree with mods feel free to state your opinion. Don't harass them.
                     </p>
                     <h3>Record Submit Rules</h3>
                     <p>
-                        Completions that use CBF are not accepted. Your completion must have cheat indicator if you have mods. The endscreen and the attempt before completion attempt must be shown. Your CPS must be shown if you have mods. If you have no mods your clicks need to be heard and you need to send the raw footage. If you are on mobile and cant show clicks, then you must enable touch indicator.
+                        Clicks must be heard in all records. Completions that use CBF are not accepted. Your completion must have cheat indicator if you have mods. The endscreen and the attempt before completion attempt must be shown. Your CPS must be shown if you have mods. If you are on mobile and cant show clicks, then you must enable touch indicator.
                     </p>
                 </div>
             </div>
