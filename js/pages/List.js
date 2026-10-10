@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Level Submit Rules</h3>
                     <p>
-                        Must be beatable and verified. Doesn't need deco but it needs structuring. Any secret ways found in levels will need to be fixed. Must be under 30 seconds. Needs to have visible effort put into it. Spamming low effort challenges will not be allowed. All levels must be made for the list by members of the GDCP community. if you disagree with mods feel free to state your opinion. Don't harass them.
+                        Must be beatable and verified. Doesn't need deco but it needs structuring. Any secret ways found in levels will need to be fixed. Must be a deathless challenge. Needs to have visible effort put into it. Spamming low effort challenges will not be allowed. All levels must be made for the list by members of the GDCP community. if you disagree with mods feel free to state your opinion. Don't harass them.
                     </p>
                     <h3>Record Submit Rules</h3>
                     <p>
