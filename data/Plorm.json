@@ -9,6 +9,12 @@
     "password": "free",
     "records": [
         {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "24.858",
+            "link": "https://medal.tv/games/geometry-dash/clips/nH5TmBIDK10Y5-EPf?invite=cr-MSxMMEcsMzA5MjIwMzk0"
+        },
+        {
             "user": "BLUJAYOO",
             "percent": 100,
             "hz": "26.008"
