@@ -1,14 +1,15 @@
 [
     {
         "role": "owner",
-        "name": "Ragequit",
-        "link": "https://www.youtube.com/@Rag3Qu1t37"
-    },
-    {
-        "role": "admin",
         "name": "Maxa",
         "link": "https://www.youtube.com/@MaxaPlayzzz"
     },
+    {
+        "role": "admin",
+        "name": "Ragequit",
+        "link": "https://www.youtube.com/@Rag3Qu1t37"
+    },
+
     {
         "role": "helper",
         "name": "DragonDude"
