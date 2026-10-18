@@ -77,6 +77,11 @@
             "user": "EABH",
             "hz": "1:27.850",
             "percent": 100
+        },
+        {
+            "user": "stockdown",
+            "percent": 100,
+            "hz": "1:35.024"
         }
     ]
 }
