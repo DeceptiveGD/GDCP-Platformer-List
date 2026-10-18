@@ -47,6 +47,11 @@
             "percent": 100
         },
         {
+            "user": "stockdown",
+            "percent": 100,
+            "hz": "5.258"
+        },
+        {
             "user": "Turbometric",
             "hz": "5.233",
             "percent": 100
