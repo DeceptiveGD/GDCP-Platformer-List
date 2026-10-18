@@ -54,6 +54,11 @@
             "percent": 100
         },
         {
+            "user": "stockdown",
+            "percent": 100,
+            "hz": "14.537"
+        },
+        {
             "user": "Mylam999",
             "percent": 100,
             "hz": "15.250",
