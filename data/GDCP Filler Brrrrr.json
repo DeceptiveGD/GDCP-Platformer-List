@@ -75,6 +75,11 @@
             "mobile": true
         },
         {
+            "user": "stockdown",
+            "percent": 100,
+            "hz": "21.666"
+        },
+        {
             "user": "Icarocarli",
             "hz": "22.404",
             "percent": 100
