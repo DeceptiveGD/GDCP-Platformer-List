@@ -63,7 +63,8 @@
                         @click.prevent="store.toggleDark()"
                     >
                         <img
-                            src="/assets/dark.svg" alt="Dark Mode Logo"
+                            :src="store.dark ? '/assets/dark.svg' : '/assets/light.svg'"
+                            alt="Light/Dark mode logo"
                         />
                     </button>
                     <!-- Replace the '#' with your discord server's invite-->
