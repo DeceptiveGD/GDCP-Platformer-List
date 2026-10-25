@@ -9,6 +9,12 @@
     "password": "free",
     "records": [
         {
+            "user": "Voiddle",
+            "percent": 100,
+            "hz": "9.049",
+            "link": "https://www.youtube.com/watch?v=SpRGgk1Vt0c"
+        },
+        {
             "user": "Mylam999",
             "percent": 100,
             "hz": "16.516",
