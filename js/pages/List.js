@@ -102,9 +102,15 @@ export default {
                     <p>
                         Must be beatable and verified. Doesn't need deco but it needs structuring. Any secret ways found in levels will need to be fixed. Must be a deathless challenge. Needs to have visible effort put into it. Spamming low effort challenges will not be allowed. All levels must be made for the list by members of the GDCP community. if you disagree with mods feel free to state your opinion. Don't harass them.
                     </p>
+                    <p>
+                        Submit your level to be placed on the list by typing /submit in the #submissions channel in the discord and filling out the popup form
+                    </p>
                     <h3>Record Submit Rules</h3>
                     <p>
                         Clicks must be heard in all records. Completions that use CBF are not accepted. Your completion must have cheat indicator if you have mods. The endscreen and the attempt before completion attempt must be shown. Your CPS must be shown if you have mods. If you are on mobile and cant show clicks, then you must enable touch indicator.
+                    </p>
+                    <p>
+                        Submit your record to be accepted in the #completions-platformer channel in the discord by pasting a link to the video of your completion
                     </p>
                 </div>
             </div>
