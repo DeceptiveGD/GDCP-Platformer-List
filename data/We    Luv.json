@@ -9,9 +9,24 @@
     "password": "free",
     "records": [
         {
-            "user": "Mylam999",
+            "user": "Voiddle",
             "percent": 100,
-            "hz": "21.604"
+            "hz": "3.562"
+        },
+        {
+            "user": "Maxa",
+            "percent": 100,
+            "hz": "4.525"
+        },
+        {
+            "user": "Turbometric",
+            "percent": 100,
+            "hz": "5.175"
+        },
+        {
+            "user": "Ragequit",
+            "hz": "5.650",
+            "percent": 100
         },
         {
             "user": "BLUJAYOO",
@@ -29,24 +44,9 @@
             "percent": 100
         },
         {
-            "user": "Turbometric",
+            "user": "DragonDude",
             "percent": 100,
-            "hz": "5.175"
-        },
-        {
-            "user": "Ragequit",
-            "hz": "5.650",
-            "percent": 100
-        },
-        {
-            "user": "Voiddle",
-            "percent": 100,
-            "hz": "3.562"
-        },
-        {
-            "user": "Maxa",
-            "percent": 100,
-            "hz": "4.525"
+            "hz": "21.604"
         }
     ]
 }
