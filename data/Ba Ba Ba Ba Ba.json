@@ -1,9 +1,9 @@
 {
     "id": 108650485,
     "name": "Ba Ba Ba Ba Ba",
-    "author": "Mylam999",
-    "creators": [],
-    "verifier": "Mylam999",
+    "author": "DragonDude",
+    "creators": ["DragonDude"],
+    "verifier": "DragonDude",
     "verification": "https://www.youtube.com/watch?v=MoI9XYiZLUs",
     "percentToQualify": "100",
     "password": "free",
