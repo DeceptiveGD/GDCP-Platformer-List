@@ -8,11 +8,16 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
-            {
+        {
             "user": "Maxa",
             "percent": 100,
             "hz": "2.316",
             "link": "https://youtu.be/0zGTUoCLiiU"
+        },
+        {
+            "user": "Tsa",
+            "percent": 100,
+            "hz": "2.441"
         },
         {
             "user": "GamingCon",
