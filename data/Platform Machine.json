@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
-	
+	    {
+            "user": "BLUJAYOO",
+            "percent": 100,
+            "hz": "11.733",
+            "link": "https://medal.tv/games/geometry-dash/clips/nT87rTTjo5LICGXjj?invite=cr-MSw5M1MsNDEzMjAyNzIw"
+        }
     ]
 }
