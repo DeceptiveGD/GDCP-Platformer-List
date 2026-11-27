@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "free",
     "records": [
-	
+	    {
+            "user": "Elisha",
+            "percent": 100,
+            "hz": "9.391",
+            "link": "https://www.youtube.com/watch?v=8NI_ealzLy0"
+        }
     ]
 }
